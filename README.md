@@ -1,5 +1,5 @@
 # MnTimeout
-Javascript timeout checked by elapsed time
+Javascript timeout checked by elapsed time.
 
 - Sample https://nakayama-muimu.github.io/mntimeout_example.html
 
