@@ -1,6 +1,7 @@
 # MnTimeout
 Javascript timeout checked by elapsed time
 
+- Sample https://nakayama-muimu.github.io/mntimeout_example.html
 
 On smartphone browsers, Javascript's setTimeout (and setInterval) method stops when the device sleeps.
 If you want to force logout of web app when the user doesn't manipulate for a certain time, you cannot simply use setTimeout.
